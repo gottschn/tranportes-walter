@@ -9,11 +9,11 @@ export function HeroSection() {
       {/* Background overlay */}
       <div className="absolute inset-0 bg-black/50" />
 
-      {/* Background image */}
+  
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/placeholder.svg?height=1080&width=1920')`,
+          backgroundImage: `url('/photos/transp/fondo-wall.png')`,
         }}
       />
 
